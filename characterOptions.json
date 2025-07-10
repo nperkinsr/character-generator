@@ -1,0 +1,31 @@
+{
+  "adjectives": [
+    "grumpy", "sparkly", "sleepy", "confused", "elegant", "furious", "bashful", "gassy", "moody", "jittery",
+    "dramatic", "clumsy", "suspicious", "tiny", "giant", "bubbly", "itchy", "noisy", "mysterious", "greasy",
+    "magical", "soggy", "shiny", "jealous", "lost", "yawning", "chatty", "hollow", "squishy", "giggly",
+    "graceful", "itchy-footed", "foggy", "caffeinated", "bristly", "bored", "dizzy", "prickly", "smudgy", "zesty",
+    "melancholy", "sticky", "bewildered", "blushy", "stormy", "wobbly", "whiny", "hypnotic", "tingly", "fizzy"
+  ],
+  "types": [
+    "princess", "frog", "dragon", "pirate", "robot", "alien", "vampire", "wizard", "ghost", "mermaid",
+    "detective", "zombie", "ninja", "giant chicken", "fortune teller", "chef", "barista", "toddler", "space captain", "gnome",
+    "time traveler", "librarian", "plumber", "receptionist", "evil twin", "sock puppet", "DJ", "taxidermist", "mime", "janitor",
+    "news anchor", "ice cream truck driver", "opera singer", "toy maker", "werewolf", "fortune cookie writer", "beekeeper", "mad scientist", "gardener", "balloon animal artist",
+    "retired superhero", "park ranger", "sleep therapist", "pirate dentist", "ice mage", "accordion player", "pigeon whisperer", "professional hide-and-seeker", "tunnel digger", "shadow collector"
+  ],
+  "quirks": [
+    "who talks to plants", "that never sleeps", "who thinks they're invisible", "that collects rubber ducks",
+    "who screams when happy", "that only eats soup", "who is afraid of spoons", "that writes fanfiction about spoons",
+    "who can only walk backwards", "who thinks they're a cloud", "who sneezes glitter", "that speaks in rhyme",
+    "who dances whenever someone blinks", "who loves elevator music", "that is allergic to socks",
+    "who keeps forgetting their name", "who only whispers", "that thinks Mondays are a conspiracy",
+    "who fears round things", "that hugs trees aggressively", "who trains ants as pets", "who howls at cheese",
+    "who wears 14 hats at once", "that refuses to sit", "who has a rivalry with the moon",
+    "who always loses their shoes", "that is followed by a squirrel", "who believes they are a sandwich",
+    "who plays air guitar seriously", "that only moves in slow motion",
+    "who can't stop narrating their life", "that translates dreams into song", "who communicates using kazoo", "who replaces all nouns with the word 'banana'",
+    "that treats every object as a sacred relic", "who is convinced birds are watching them", "who names every raindrop", "who throws dramatic tantrums when offered tea",
+    "that throws confetti when nervous", "who's haunted by a friendly ghost", "who thinks doorknobs are time machines", "who cheers at random", "who suspects their pet is plotting against them",
+    "that acts in slow motion for dramatic effect", "who starts conga lines in elevators", "that writes apology notes to inanimate objects", "who draws moustaches on everything", "who can't stop reciting tongue twisters", "who fears the colour yellow"
+  ]
+}
